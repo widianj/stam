@@ -3,8 +3,6 @@ G {}
 V {}
 S {}
 E {}
-N 990 380 1250 380 {lab=A}
-C {devices/lab_wire.sym} 990 380 0 0 {lab=A}
 N 740 380 1010 380 {lab=N1}
 C {devices/lab_wire.sym} 740 380 0 0 {lab=N1}
 N 490 500 620 500 {lab=N2}
