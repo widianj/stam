@@ -73,16 +73,16 @@ N 250 250 380 250 {lab=GND}
 N 380 250 380 500 {lab=GND}
 N 380 500 510 500 {lab=GND}
 C {devices/lab_wire.sym} 250 250 0 0 {lab=GND}
-C {devices/R.sym} 2250 250 0 0 {name=R1 value=1k}
-C {devices/R.sym} 2000 250 0 0 {name=R2 value=2k}
-C {devices/R.sym} 2000 500 0 0 {name=R3 value=3k}
-C {devices/R.sym} 1500 250 0 0 {name=R4 value=4k}
-C {devices/R.sym} 1500 500 0 0 {name=R5 value=5k}
-C {devices/R.sym} 1250 250 0 0 {name=R6 value=6k}
-C {devices/R.sym} 1250 500 0 0 {name=R7 value=7k}
-C {devices/R.sym} 750 250 0 0 {name=R8 value=8k}
-C {devices/R.sym} 500 250 0 0 {name=R9 value=9k}
-C {devices/R.sym} 500 500 0 0 {name=R10 value=10k}
+C {devices/res.sym} 2250 250 0 0 {name=R1 value=1k}
+C {devices/res.sym} 2000 250 0 0 {name=R2 value=2k}
+C {devices/res.sym} 2000 500 0 0 {name=R3 value=3k}
+C {devices/res.sym} 1500 250 0 0 {name=R4 value=4k}
+C {devices/res.sym} 1500 500 0 0 {name=R5 value=5k}
+C {devices/res.sym} 1250 250 0 0 {name=R6 value=6k}
+C {devices/res.sym} 1250 500 0 0 {name=R7 value=7k}
+C {devices/res.sym} 750 250 0 0 {name=R8 value=8k}
+C {devices/res.sym} 500 250 0 0 {name=R9 value=9k}
+C {devices/res.sym} 500 500 0 0 {name=R10 value=10k}
 C {devices/opin.sym} 1750 250 0 0 {lab=IN}
 C {devices/opin.sym} 1000 250 0 0 {lab=OUT}
 C {devices/opin.sym} 2500 250 0 0 {lab=VDD}
